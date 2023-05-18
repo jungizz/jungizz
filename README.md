@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jungizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungizz&show_icons=true&theme=radical)
+![Jungizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungizz&show_icons=true&theme=vue)
 
 <a href="https://www.instagram.com/jung0_n_/" target="_blank"><img src="https://img.shields.io/badge/@jung0_n-FFFFFF?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
