@@ -2,7 +2,7 @@
   
   # Hello, I'm JungEun👏
   
-  <a href="https://www.instagram.com/jung0_n_/" target="_blank"><img src="https://img.shields.io/badge/@jung0_n-FFFFFF?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
+  <a href="https://www.instagram.com/jung0_n_/" target="_blank"><img src="https://img.shields.io/badge/jung0_n-FFFFFF?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
   <a href="https://velog.io/@jungizz_" target="_blank"><img src="https://img.shields.io/badge/jungizz_-FFFFFF?style=flat-square&logo=velog&logoColor=20C997"/></a>  
   
   ![cutie](https://github.com/jungizz/jungizz/assets/113113802/f79d83bc-b0d1-46fd-9411-53243d3980c2)  
