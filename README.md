@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jungizz/jungizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +15,4 @@ Here are some ideas to get you started:
 
 ![Jungizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungizz&show_icons=true&theme=radical)
 
-<a href="https://www.instagram.com/jung0_n_/" target="_blank"><img src="https://img.shields.io/badge/@jung0_n-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>
+<a href="https://www.instagram.com/jung0_n_/" target="_blank"><img src="https://img.shields.io/badge/@jung0_n-FFFFFF?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
