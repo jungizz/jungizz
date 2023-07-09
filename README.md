@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hello, I'm JungEun👏
+  ### Hello, I'm JungEun👏
   
   <a href="https://www.instagram.com/jung0_n_/" target="_blank"><img src="https://img.shields.io/badge/jung0_n-FFFFFF?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
   <a href="https://velog.io/@jungizz_" target="_blank"><img src="https://img.shields.io/badge/jungizz_-FFFFFF?style=flat-square&logo=velog&logoColor=20C997"/></a>  
